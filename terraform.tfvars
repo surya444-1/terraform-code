@@ -1,5 +1,5 @@
-secret_key = "3LhbpQLpsq9wVJubTMVhgp62xXRZtyx3IixkWphD"
-access_key = "AKIAQKHQ3EHQVYXXWZVK"
+secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_key = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 cidr_block = "10.50.0.0/16"
 public_subnet1_cidr = "10.50.1.0/24"
 public_subnet2_cidr = "10.50.2.0/24"
